@@ -10,7 +10,7 @@ import time
 import os
 
 # Load Nvidia Api Key
-os.environ['NVIDIA_API_KEY'] = "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"
+os.environ['NVIDIA_API_KEY'] = "Enter your NVIDIA API key here"
 
 # Calling the LLM model
 llm = ChatNVIDIA(model_name = "nvidia/llama-3.1-nemotron-ultra-253b-v1")   # NVIDIA NIM Inferencing Model
