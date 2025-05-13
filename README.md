@@ -54,7 +54,7 @@ os.environ['NVIDIA_API_KEY'] = "your-nvidia-api-key"
 ## ▶️ Run the App
 
 ```bash
-streamlit run app.py
+streamlit run final_app.py
 ```
 
 Open your browser at `http://localhost:8501` and start chatting! 🧠💬
